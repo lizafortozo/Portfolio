@@ -516,3 +516,15 @@ input[type="sumbit"]:hover{
 
 }
 /*End media queries*/
+
+a.button1 {
+    border: solid;
+    color: white;
+    background-color: #221e3f;
+    padding: 25px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 850px;
+    cursor: pointer;
+  }
